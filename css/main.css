@@ -93,10 +93,10 @@ body{
     margin-bottom: 5px;
 }
 .in p{
-    margin: 0px 19px 0px 13px;
+    margin: 0px 35px 0px 35px;
 }
 .fol h4{
-    margin: 0px 0px 0px 421px;
+    margin: 0px 0px 0px 404px;
 }
 .fol hr{
     border: 2px solid
@@ -107,5 +107,8 @@ body{
 .logo{
    height: 20px;
    display: flex;
+}
+.logo img{
+    margin-left: 10px;
 }
 
