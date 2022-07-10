@@ -13,18 +13,21 @@ body{
     display: flex;
     background-color: #fff;
 }
+.free1{
+    width: 300px;
+}
 .free h5{
-    margin: 5px 0px 0px 228px;
+    margin: 5px 0px 0px 60px;
     background-color: yellow;
     padding: 2px 4px;
 }
 .free span{
     position: relative;
     top: 20px;
-    left: -8px;
+    left: -80px;
 }
 .free h2{
-    margin-left: 0px;
+    margin-left: -150px;
     font-family: cursive;
 }
 .new {
@@ -40,7 +43,8 @@ body{
     border-bottom: 2px solid;
 } */
 .good{
-    background-image: url("/img/bg_img2.jpg");
+    background-image: url("../img/bg_img2.jpg");
+    margin:15px;
 }
 .good h3{
     text-align: center;
@@ -98,7 +102,7 @@ body{
 .fol h4{
     margin: 0px 0px 0px 404px;
 }
-.fol hr{
+.hr1{
     border: 2px solid
 }
 .fol {
