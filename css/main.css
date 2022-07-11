@@ -102,8 +102,10 @@ body{
 .fol h4{
     margin: 0px 0px 0px 404px;
 }
-.hr1{
-    border: 2px solid
+.hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid gray;
 }
 .fol {
     display: flex;
